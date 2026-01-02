@@ -1,0 +1,6 @@
+hello world
+this is again a new line
+appending the file
+firs line
+second line
+hii there piyush
